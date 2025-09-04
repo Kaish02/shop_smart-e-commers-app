@@ -24,3 +24,6 @@ SharedPreferences – Token storage only
 Razorpay SDK – Secure Online Payments
 DummyJSON API – Used for backend simulation
 
+
+![WhatsApp Image 2025-09-04 at 07 52 00_a965d79e](https://github.com/user-attachments/assets/5a8520a9-ec2c-403e-9900-c93273c43465)
+
